@@ -3,4 +3,4 @@ git is free software distributed under the GPL.
 git is a good tool.
 readme line4.
 readme line5.
-create a new branck is quick.
+create a new branck is quick & simple.
