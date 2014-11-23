@@ -5,3 +5,4 @@ readme line4.
 readme line5.
 create a new branck is quick & simple.
 merge with out fast forward.
+there is a new line when i learn stash.
