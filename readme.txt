@@ -4,3 +4,4 @@ git is a good tool.
 readme line4.
 readme line5.
 create a new branck is quick & simple.
+merge with out fast forward.
