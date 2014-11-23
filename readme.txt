@@ -7,3 +7,4 @@ create a new branck is quick & simple.
 merge with out fast forward.
 there is a new line when i learn stash.
 there is two new line when i learn stash.
+i like red.
